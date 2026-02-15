@@ -28,7 +28,7 @@ The system was developed using **Microsoft SQL Server** and demonstrates advance
 ### 📊 Performance Reviews
 - Quarterly review cycles
 - Ratings + textual feedback
-- AI-ready preprocessing view for future sentiment analysis S
+- AI-ready preprocessing view for future sentiment analysis 
 
 ### 🎓 Training & Skills Management
 - Employee training enrollment and completion tracking
@@ -104,8 +104,8 @@ HR/Admin roles can access full datasets.
 
 ---
 
-## 🚀 Future Enhancements (Next Semester) - Subject to Change
-- AI integration for performance feedback sentiment analysis  
+## 🚀 Future Enhancements (Next Semester)
+- AI integration for performance feedback sentiment analysis  - Subject to change so the AI take actions
 - MongoDB integration for semi-structured HR notes  
 - Advanced analytics dashboards  
 
