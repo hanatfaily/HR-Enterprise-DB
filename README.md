@@ -105,7 +105,7 @@ HR/Admin roles can access full datasets.
 ---
 
 ## 🚀 Future Enhancements (Next Semester)
-- AI integration for performance feedback sentiment analysis  - Subject to change so the AI take actions
+- AI integration for performance feedback sentiment analysis  - Subject to change so the AI takes actions
 - MongoDB integration for semi-structured HR notes  
 - Advanced analytics dashboards  
 
